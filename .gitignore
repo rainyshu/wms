@@ -1,0 +1,4 @@
+**/target/
+**/.idea/
+**/.gitigonre
+flink-sqlserver-doris/dependency-reduced-pom.xml
